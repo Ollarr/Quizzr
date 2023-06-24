@@ -47,7 +47,7 @@ class _QuizScreenState extends State<QuizScreen> {
               image: const AssetImage("assets/images/quiz-logo.png"),
               fit: BoxFit.contain,
               colorFilter: ColorFilter.mode(
-                Colors.black.withOpacity(0.7),
+                Colors.black.withOpacity(0.9),
                 BlendMode.dstOut,
               ),
             ),
